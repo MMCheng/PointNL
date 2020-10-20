@@ -35,7 +35,7 @@ by Mingmei Cheng, Le Hui, Jin Xie, Jian Yang and Hui Kong, details are in [paper
 
   Download the S3IDS dataset and generate superpoints.
   
-  We will update the detailed scripts of data processing later. The generation of superpoints can also refer to :link:https://github.com/loicland/superpoint_graph (SPGraph, CVPR 18).
+  We will update the detailed scripts of data processing later. The generation of superpoints can also refer to [SPGraph, CVPR 18](https://github.com/loicland/superpoint_graph ).
   
   ```
   sh tool/train.sh DATASET_PATH
@@ -50,10 +50,10 @@ by Mingmei Cheng, Le Hui, Jin Xie, Jian Yang and Hui Kong, details are in [paper
 ### Citation:
 ```
   @article{cheng2020cascaded,
-  title={Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation},
-  author={Cheng, Mingmei and Hui, Le and Xie, Jin and Yang, Jian and Kong, Hui},
-  booktitle={IROS},
-  year={2020}
+    title={Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation},
+    author={Cheng, Mingmei and Hui, Le and Xie, Jin and Yang, Jian and Kong, Hui},
+    booktitle={IROS},
+    year={2020}
 }
 ```
 
