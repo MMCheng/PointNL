@@ -1,6 +1,6 @@
 # PointNL
 
-Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation:link:https://arxiv.org/abs/2007.15488
+Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation ![paper](https://arxiv.org/abs/2007.15488)
 
 ### Requirements:
 
