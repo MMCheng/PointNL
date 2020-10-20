@@ -49,5 +49,13 @@ Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation:link:htt
   ```
   sh tool/test.sh DATASET_PATH
   ```
-
+### Citation:
+```
+  @article{cheng2020cascaded,
+  title={Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation},
+  author={Cheng, Mingmei and Hui, Le and Xie, Jin and Yang, Jian and Kong, Hui},
+  journal={arXiv preprint arXiv:2007.15488},
+  year={2020}
+}
+```
 
