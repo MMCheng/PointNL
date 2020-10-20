@@ -52,7 +52,7 @@ by Mingmei Cheng, Le Hui, Jin Xie, Jian Yang and Hui Kong, details are in [paper
   @article{cheng2020cascaded,
   title={Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation},
   author={Cheng, Mingmei and Hui, Le and Xie, Jin and Yang, Jian and Kong, Hui},
-  journal={arXiv preprint arXiv:2007.15488},
+  booktitle={IROS},
   year={2020}
 }
 ```
