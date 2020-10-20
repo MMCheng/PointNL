@@ -1,7 +1,5 @@
-# PointNL
-
-Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation [paper](https://arxiv.org/abs/2007.15488)
-
+# Cascaded Non-local Neural Network for Point Cloud Semantic Segmentation 
+by Mingmei Cheng, Le Hui, Jin Xie, Jian Yang and Hui Kong, details are in [paper](https://arxiv.org/abs/2007.15488)
 ### Requirements:
 
 - environment:
