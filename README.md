@@ -35,7 +35,7 @@ by Mingmei Cheng, Le Hui, Jin Xie, Jian Yang and Hui Kong, details are in [paper
 
   Download the S3IDS dataset and generate superpoints.
   
-  We will update the detailed scripts of data processing later. The generation of superpoints can also refer to [SPGraph, CVPR 18](https://github.com/loicland/superpoint_graph ).
+  We will update the detailed scripts of data processing later. The generation of superpoints can also refer to [SPGraph](https://github.com/loicland/superpoint_graph ).
   
   ```
   sh tool/train.sh DATASET_PATH
